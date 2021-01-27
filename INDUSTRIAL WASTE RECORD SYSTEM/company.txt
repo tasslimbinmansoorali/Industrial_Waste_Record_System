@@ -1,0 +1,6 @@
+Company name:Tesla Inc.
+Company Email: tesla@gmail.com
+Address: 18 Pal Alto Rd. California
+Type of waste produced: Solid Waste
+Mass of waste produced: 7000kg
+
